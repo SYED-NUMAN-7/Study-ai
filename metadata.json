@@ -1,0 +1,6 @@
+{
+  "name": "StudyPack AI",
+  "description": "Smart learning companion for students Class 1 to 10 with class-tailored explanations, study packs, quizzes, and flashcards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
